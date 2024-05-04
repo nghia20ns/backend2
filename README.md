@@ -3,7 +3,6 @@
 ### Install
 #### Download source code from github
 Use `git clone` to download source from git
-#### `git clone https://github.com/nghia20ns/user-front-end.git`
 
 #### `npm install`
 When you run `npm install`, npm will read the `package.json` file in your project directory to find a list of packages that need to be installed. It will then download and install these packages from the npm repository and save them to the node_modules folder in your project. This helps you manage your project's dependencies and libraries efficiently.
@@ -47,7 +46,6 @@ including `home` page, `about` page, `information` page and `cart` page
 ### Install
 #### Download source code from github
 Use `git clone` to download source from git
-#### `git clone https://github.com/nghia20ns/user-front-end.git`
 
 #### `npm install`
 When you run `npm install`, npm will read the `package.json` file in your project directory to find a list of packages that need to be installed. It will then download and install these packages from the npm repository and save them to the node_modules folder in your project. This helps you manage your project's dependencies and libraries efficiently.
